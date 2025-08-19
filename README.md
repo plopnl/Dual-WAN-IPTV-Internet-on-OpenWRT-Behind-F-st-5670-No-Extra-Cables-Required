@@ -1,4 +1,3 @@
-[Dual-WAN IPTV + Internet on OpenWRT Behind F@st 5670 — No Extra Cables Required.md](https://github.com/user-attachments/files/21856076/Dual-WAN.IPTV.%2B.Internet.on.OpenWRT.Behind.F%40st.5670.No.Extra.Cables.Required.md)
 Want **Internet \+ IPTV** over a single OpenWRT router behind the **F@st 5670** — without running extra cables to media boxes? Here's a working **dual-WAN passthrough setup** using IGMP proxy and OpenWRT bridging.
 
 **What You’ll Need**
